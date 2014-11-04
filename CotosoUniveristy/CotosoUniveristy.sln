@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotosoUniversity", "CotosoUniversity\CotosoUniversity.csproj", "{30427B66-7B3E-472A-A4B7-E466976A534C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotosoUniversity.Tests", "CotosoUniversity.Tests\CotosoUniversity.Tests.csproj", "{DB81345D-5B3F-4C60-ABB7-A07D5A05CD02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30427B66-7B3E-472A-A4B7-E466976A534C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30427B66-7B3E-472A-A4B7-E466976A534C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30427B66-7B3E-472A-A4B7-E466976A534C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30427B66-7B3E-472A-A4B7-E466976A534C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB81345D-5B3F-4C60-ABB7-A07D5A05CD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB81345D-5B3F-4C60-ABB7-A07D5A05CD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB81345D-5B3F-4C60-ABB7-A07D5A05CD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB81345D-5B3F-4C60-ABB7-A07D5A05CD02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
