@@ -1,0 +1,59 @@
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\CotosoUniversity.dll.config
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\CotosoUniversity.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\CotosoUniversity.pdb
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\Antlr3.Runtime.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\EntityFramework.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\EntityFramework.SqlServer.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\Newtonsoft.Json.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.Helpers.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.Mvc.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.Optimization.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.Razor.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.Deployment.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.Razor.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\WebGrease.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\EntityFramework.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\EntityFramework.SqlServer.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.Helpers.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.Mvc.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.Optimization.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.Razor.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.Deployment.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.Razor.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\Antlr3.Runtime.pdb
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\bin\Newtonsoft.Json.xml
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\obj\Debug\CotosoUniversity.dll
+c:\users\thanh doan\documents\visual studio 2013\Projects\CotosoUniveristy\CotosoUniversity\obj\Debug\CotosoUniversity.pdb
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\CotosoUniversity.dll.config
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\CotosoUniversity.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\CotosoUniversity.pdb
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\Antlr3.Runtime.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\EntityFramework.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\Newtonsoft.Json.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.Helpers.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.Mvc.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.Optimization.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.Razor.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\WebGrease.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\EntityFramework.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.Helpers.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.Mvc.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.Optimization.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.Razor.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\Antlr3.Runtime.pdb
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\bin\Newtonsoft.Json.xml
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\obj\Debug\CotosoUniversity.csprojResolveAssemblyReference.cache
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\obj\Debug\CotosoUniversity.dll
+C:\myprojects\ContosoUniversity\CotosoUniveristy\CotosoUniversity\obj\Debug\CotosoUniversity.pdb

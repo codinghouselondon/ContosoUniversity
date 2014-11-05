@@ -1,0 +1,7 @@
+
+1. How to connect LocalDB@
+http://stackoverflow.com/questions/21563940/how-to-connect-to-localdb-in-visual-studio-server-explorer
+
+2. How to initialzier database()
+
+http://stackoverflow.com/questions/20653931/could-not-load-file-or-assembly-or-its-dependencies-the-system-cannot-find-the
