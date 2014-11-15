@@ -28,5 +28,6 @@ C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\System.Web.WebP
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\System.Web.WebPages.Razor.xml
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Antlr3.Runtime.pdb
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Newtonsoft.Json.xml
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\obj\Debug\ConsotoUniversity.csprojResolveAssemblyReference.cache
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\obj\Debug\ConsotoUniversity.dll
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\obj\Debug\ConsotoUniversity.pdb

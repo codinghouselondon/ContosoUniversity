@@ -131,6 +131,10 @@
     <Compile Include="StudentInitializer.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\ContosoUniversity1.mdf" />
+    <Content Include="App_Data\ContosoUniversity1_log.ldf">
+      <DependentUpon>ContosoUniversity1.mdf</DependentUpon>
+    </Content>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
@@ -175,9 +179,7 @@
     <Content Include="Views\Student\Edit.cshtml" />
     <Content Include="Views\Student\Index.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
