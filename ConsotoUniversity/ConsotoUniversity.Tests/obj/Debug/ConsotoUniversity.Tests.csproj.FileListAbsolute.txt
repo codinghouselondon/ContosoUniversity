@@ -25,3 +25,6 @@ C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Ent
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\System.Web.Optimization.xml
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\obj\Debug\ConsotoUniversity.Tests.dll
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\obj\Debug\ConsotoUniversity.Tests.pdb
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Web.config
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Web.Debug.config
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Web.Release.config
