@@ -1,4 +1,6 @@
-C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\obj\Debug\ConsotoUniversity.Tests.csprojResolveAssemblyReference.cache
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Web.config
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Web.Debug.config
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Web.Release.config
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\ConsotoUniversity.Tests.dll.config
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\ConsotoUniversity.Tests.dll
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\ConsotoUniversity.Tests.pdb
@@ -23,8 +25,6 @@ C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Sys
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\EntityFramework.xml
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\System.Web.Optimization.xml
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\obj\Debug\ConsotoUniversity.Tests.csprojResolveAssemblyReference.cache
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\obj\Debug\ConsotoUniversity.Tests.dll
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\obj\Debug\ConsotoUniversity.Tests.pdb
-C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Web.config
-C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Web.Debug.config
-C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity.Tests\bin\Debug\Web.Release.config

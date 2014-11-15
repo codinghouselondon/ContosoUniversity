@@ -1,4 +1,6 @@
-C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\obj\Debug\ConsotoUniversity.csprojResolveAssemblyReference.cache
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Web.config
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Web.Debug.config
+C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Web.Release.config
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\ConsotoUniversity.dll.config
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\ConsotoUniversity.dll
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\ConsotoUniversity.pdb
@@ -28,6 +30,3 @@ C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Antlr3.Runtime.
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Newtonsoft.Json.xml
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\obj\Debug\ConsotoUniversity.dll
 C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\obj\Debug\ConsotoUniversity.pdb
-C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Web.config
-C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Web.Debug.config
-C:\src\ContosoUniversity\ConsotoUniversity\ConsotoUniversity\bin\Web.Release.config
